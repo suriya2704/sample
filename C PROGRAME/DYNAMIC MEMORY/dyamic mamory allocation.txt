@@ -1,7 +1,0 @@
-DYNAMIC MEMORY ALLOCATIO(DMA):  it is the storage ,storage has two type stack memory and dynamic memory. stack memory is unchangeable
- like (int a) which means int has 4 bytes which cannot be changed but dynamic memory can be changed like if we want. if we want high 
-space it gives ,if we want lower it will gives based on over needs. this  DMA store in heep memory insteed of stack. which cannot be changed
-it is stack memory. it has 4 functions that is malloc(),calloc(),realloc(),free() and also consist <stdlib.h> headee or library.
-
-malloc() : memory allocation(malloc).it allocate total memory let say (int*)malloc(12).which means it has 12 bytes.each int has 4 bytes
-which means i can perform 3 loops.because it perform total bytes not single bytes in a loop .it only works in pointers like *ptr=malloc(). 
